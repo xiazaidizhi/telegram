@@ -4,8 +4,6 @@
 
 <a href="https://telagcam.com">[点击此处下载Telegram-电脑版]</a>
 
-<a href="https://telagcam.com">[点击此处下载Telegram-手机版]</a>
-
 <a href="https://telagcam.com">[点击此处访问Telegram-官网]</a>
 
 Telegram是一款强大的即时通讯应用程序，提供了安全、高速和灵活的聊天功能。
@@ -29,7 +27,5 @@ Telegram是一个功能强大、安全可靠的即时通讯应用，适用于个
 ## 📥 立即下载
 
 <a href="https://telagcam.com">[点击此处下载Telegram-电脑版]</a>
-
-<a href="https://telagcam.com">[点击此处下载Telegram-手机版]</a>
 
 <a href="https://telagcam.com">[点击此处访问Telegram-官网]</a>
